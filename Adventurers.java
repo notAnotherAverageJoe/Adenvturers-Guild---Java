@@ -67,6 +67,7 @@ public class Adventurers {
          firstName + " " 
          + lastName +
          " The " + rank+ " ranked" +" "+ classSpec  );
+         
     }
 
 
